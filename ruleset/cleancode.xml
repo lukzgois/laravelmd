@@ -90,7 +90,8 @@ case when static access is acceptable is when used for factory methods.
                       \Illuminate\Support\Facades\Log,\Illuminate\Support\Facades\Mail,\Illuminate\Support\Facades\Password,\Illuminate\Support\Facades\Queue,
                       \Illuminate\Support\Facades\Redirect,\Illuminate\Support\Facades\Redis,\Illuminate\Support\Facades\Request,\Illuminate\Support\Facades\Response,
                       \Illuminate\Support\Facades\Route,\Illuminate\Support\Facades\Schema,\Illuminate\Support\Facades\Session,\Illuminate\Support\Facades\Storage,
-                      \Illuminate\Support\Facades\URL,\Illuminate\Support\Facades\Validator,\Illuminate\Support\Facades\View" />
+                      \Illuminate\Support\Facades\URL,\Illuminate\Support\Facades\Validator,\Illuminate\Support\Facades\View,\Illuminate\Foundation\Inspiring,
+                      \Illuminate\Support\Facades\File,\Illuminate\Bus\Dispatcher" />
         </properties>
         <example>
             <![CDATA[
