@@ -1,0 +1,12 @@
+{
+  "name": "lukzgois/laravelmd",
+  "description": "Custom rules to check a Laravel 5 project with PHP Mess Detector",
+  "keywords": ["laravel", "phpmd", "ruleset"],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Lucas Padilha Gois",
+      "email": "lucaspgois@gmail.com"
+    }
+  ]
+}
